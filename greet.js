@@ -20,7 +20,7 @@
 function Greet(name) {
   // No name
   if (name == null) {
-    return "Hello there!";
+    return "Hello there! WOOPS";
   }
 
   // Multiple names
